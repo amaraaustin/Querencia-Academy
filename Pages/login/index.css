@@ -1,0 +1,79 @@
+
+
+html {
+    scroll-behavior: smooth;
+}
+
+input {
+    caret-color: lightgreen;
+    font: 700 15px cursive;
+}
+
+form {
+    /* width: 70%;
+    margin-top: 10vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between; */
+}
+
+body {
+    background-image: url(../../static/images/Querencia/images\ \(21\).jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 100vh;
+    background-origin: content-box;
+    height: 200vh;
+    position: relative;
+    width: 30%;
+    height: max-content;
+    float: center;
+    margin: 50 50;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.container {
+    background-color: lightgreen;
+    border-radius: 10px;
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    display:flex;
+    flex-wrap: wrap;
+    position: absolute;
+    height: 50vh;
+}
+
+button:hover {
+    background-color: blue;
+}
+
+button {
+    font-family: 'inspiration', cursive ;
+}
+
+.jk {
+    border-radius: 30px;
+    float: right;
+}
+
+.h2 {
+    font-family: 'inspiration', cursive
+}
+
+.kj {
+    border-radius: 5px;
+    float: right;
+}
+
+.h5 {
+    font-family: 'inspiration', cursive
+}
+
+.h51 {
+    color: blue;
+}
+
